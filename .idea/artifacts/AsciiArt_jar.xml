@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AsciiArt:jar">
+    <output-path>$PROJECT_DIR$/target/test-classes/AsciiArt</output-path>
+    <root id="archive" name="AsciiArt.jar">
+      <element id="module-output" name="AsciiArt" />
+    </root>
+  </artifact>
+</component>

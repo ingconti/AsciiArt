@@ -13,5 +13,9 @@ public class App
         d.roll();
         d.dump();
 
+
+        BattleField battleField = new BattleField();
+        battleField.plot();
+
     }
 }
