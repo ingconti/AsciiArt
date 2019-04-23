@@ -1,0 +1,6 @@
+
+;squid:S2386!"Make this member "protected".(Ú‚È³8¼‰ìÏ¤-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿è®Î8ç……Ð¤-
+Asquid:S2119."Save and re-use this "Random".(šŸ«íøÿÿÿÿ8£¾ìÏ¤-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï‚Šçùÿÿÿÿ8¼‰ìÏ¤-

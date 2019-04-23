@@ -1,0 +1,17 @@
+package AsciiArt;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Color c = Color.ANSI_BLUE;
+        Dice d = new Dice(c);
+        d.roll();
+        d.dump();
+
+    }
+}
