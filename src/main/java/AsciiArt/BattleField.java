@@ -6,7 +6,6 @@ import java.util.Random;
 
 public class BattleField {
 
-    private  static final int MAX_WEAPONS = 3;
     private static final int MAX_VERT_TILES = 5; //rows.
     private static final int MAX_HORIZ_TILES = 25; //cols.
 
@@ -57,6 +56,7 @@ public class BattleField {
         weapons.add(Color.ANSI_BLUE.escape() + "p" + greenEscape);
         weapons.add(Color.ANSI_YELLOW.escape() + "x" + greenEscape);
     }
+
 
     private void dissiminateWeapons(){
 
