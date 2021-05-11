@@ -9,10 +9,11 @@ public class App
         Dice d = new Dice(c);
         d.roll();
         d.dump();
-
-
         BattleField battleField = new BattleField();
         battleField.plot();
 
     }
+
+
+
 }

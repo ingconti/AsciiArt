@@ -15,13 +15,13 @@ public class BattleField {
 
 
     BattleField() {
-        fillEmpy();
+        fillEmpty();
         loadWeapons();
         dissiminateWeapons();
     }
 
 
-    private void fillEmpy() {
+    private void fillEmpty() {
 
         tiles[0][0] = "╔";
         for (int c = 1; c < MAX_HORIZ_TILES - 1; c++) {
