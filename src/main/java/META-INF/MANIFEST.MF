@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: /Users/ingconti/Desktop/AsciiArt/target/classes/AsciiArt
-Main-Class: AsciiArt.App
-

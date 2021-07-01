@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ingsw.poilimi.it" />
         <module name="AsciiArt" />
+        <module name="ingsw.polimi.it" />
       </profile>
     </annotationProcessing>
   </component>
