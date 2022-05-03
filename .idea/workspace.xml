@@ -46,8 +46,10 @@
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="it.polimi.ingsw.AsciiArt.App" />
-      <module name="ingsw.polimi.it" />
+      <module name="ASCIIArt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>

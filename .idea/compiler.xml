@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="AsciiArt" />
         <module name="ingsw.polimi.it" />
+        <module name="ASCIIArt" />
       </profile>
     </annotationProcessing>
   </component>
